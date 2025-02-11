@@ -73,6 +73,7 @@ def protein_hash(message):
 
 def main():
     # Input message and key for enzyme encryption
+
     plaintext = "HELLOCRYPTOWORLD"
     key = 3  # Enzyme (key) for encryption
 
